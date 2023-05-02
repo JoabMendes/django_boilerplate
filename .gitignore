@@ -1,0 +1,23 @@
+node_modules/
+dist/
+npm-debug.log
+yarn-error.log
+package-lock.json
+# Editor directories and files
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+.*swp
+local_database.sqlite3
+__pycache__/
+app/caches/*
+local_database
+*.py[cod]
+static_cdn/
+media_cdn/
+media/
+*.DS_Store
+*hot-update*
+.db_data
