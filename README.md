@@ -6,6 +6,7 @@
 - Pytest setup
 - Lint setup
 - Coverage setup
+- Travis setup
 
 # Get started
 
